@@ -3,3 +3,4 @@ name = "awesome-computational-biology"
 version = "0.1.0"
 description = "Awesome list of computational biology."
 requires-python = ">=3.10"
+# handle the edge case from the last release
